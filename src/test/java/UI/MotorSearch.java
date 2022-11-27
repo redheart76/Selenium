@@ -12,13 +12,11 @@ import org.openqa.selenium.support.ui.Select;
 
 public class MotorSearch {
 	
-	    private WebDriver driver ;
+	private WebDriver driver;
 	  
   @BeforeMethod
 	public void GoToHomePage() {
-	    driver = new ChromeDriver();
-		
-		//driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+	  driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("https://www.trademe.co.nz");
 	}
@@ -72,8 +70,7 @@ public class MotorSearch {
       //To get and print out the search result
       String ActualResult = SearchResult1.getText();
       System.out.println(ActualResult); 
-      
-}
+ }
   
   @Test
     public void SearchHonda() throws InterruptedException {
@@ -96,7 +93,7 @@ public class MotorSearch {
       //To get and print out the search result
       String ActualResult = SearchResult1.getText();
       System.out.println(ActualResult);  
-}
+ }
   
   @Test
     public void SearchMazda() throws InterruptedException {
@@ -119,7 +116,5 @@ public class MotorSearch {
       //To get and print out the search result
       String ActualResult = SearchResult1.getText();
       System.out.println(ActualResult);  
-}
-  
-
+ }
 }
