@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="153734" started-at="2022-11-27T02:39:05 NZDT" finished-at="2022-11-27T02:41:38 NZDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="153734" started-at="2022-11-27T02:39:05 NZDT" finished-at="2022-11-27T02:41:38 NZDT">
+      <class name="UI.MotorSearch">
+        <test-method status="PASS" signature="GoToHomePage()[pri:0, instance:UI.MotorSearch@371a67ec]" name="GoToHomePage" is-config="true" duration-ms="23358" started-at="2022-11-27T02:39:05 NZDT" finished-at="2022-11-27T02:39:28 NZDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoToHomePage -->
+        <test-method status="PASS" signature="SearchBMW()[pri:0, instance:UI.MotorSearch@371a67ec]" name="SearchBMW" duration-ms="18876" started-at="2022-11-27T02:39:28 NZDT" finished-at="2022-11-27T02:39:47 NZDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchBMW -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:UI.MotorSearch@371a67ec]" name="CloseBrowser" is-config="true" duration-ms="310" started-at="2022-11-27T02:39:47 NZDT" finished-at="2022-11-27T02:39:47 NZDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="GoToHomePage()[pri:0, instance:UI.MotorSearch@371a67ec]" name="GoToHomePage" is-config="true" duration-ms="20127" started-at="2022-11-27T02:39:47 NZDT" finished-at="2022-11-27T02:40:07 NZDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoToHomePage -->
+        <test-method status="PASS" signature="SearchFerrari()[pri:0, instance:UI.MotorSearch@371a67ec]" name="SearchFerrari" duration-ms="17094" started-at="2022-11-27T02:40:07 NZDT" finished-at="2022-11-27T02:40:24 NZDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchFerrari -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:UI.MotorSearch@371a67ec]" name="CloseBrowser" is-config="true" duration-ms="263" started-at="2022-11-27T02:40:24 NZDT" finished-at="2022-11-27T02:40:25 NZDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="GoToHomePage()[pri:0, instance:UI.MotorSearch@371a67ec]" name="GoToHomePage" is-config="true" duration-ms="19269" started-at="2022-11-27T02:40:25 NZDT" finished-at="2022-11-27T02:40:44 NZDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoToHomePage -->
+        <test-method status="PASS" signature="SearchHonda()[pri:0, instance:UI.MotorSearch@371a67ec]" name="SearchHonda" duration-ms="17974" started-at="2022-11-27T02:40:44 NZDT" finished-at="2022-11-27T02:41:02 NZDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchHonda -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:UI.MotorSearch@371a67ec]" name="CloseBrowser" is-config="true" duration-ms="232" started-at="2022-11-27T02:41:02 NZDT" finished-at="2022-11-27T02:41:02 NZDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="GoToHomePage()[pri:0, instance:UI.MotorSearch@371a67ec]" name="GoToHomePage" is-config="true" duration-ms="18543" started-at="2022-11-27T02:41:02 NZDT" finished-at="2022-11-27T02:41:21 NZDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoToHomePage -->
+        <test-method status="PASS" signature="SearchMazda()[pri:0, instance:UI.MotorSearch@371a67ec]" name="SearchMazda" duration-ms="17393" started-at="2022-11-27T02:41:21 NZDT" finished-at="2022-11-27T02:41:38 NZDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchMazda -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:UI.MotorSearch@371a67ec]" name="CloseBrowser" is-config="true" duration-ms="223" started-at="2022-11-27T02:41:38 NZDT" finished-at="2022-11-27T02:41:38 NZDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- UI.MotorSearch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
